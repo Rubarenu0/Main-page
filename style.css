@@ -1,0 +1,16 @@
+*{
+    background-color: blueviolet;
+}
+i{
+    font-size: 90px;
+    border: 20px solid aquamarine;
+    background-color: aquamarine;
+    border-radius: 100%;
+}
+.section{
+    text-align: center;
+    margin-top: 200px;
+}
+.col h2{
+    margin-top: 20px;
+}
